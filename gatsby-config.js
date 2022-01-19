@@ -2,14 +2,14 @@ require("dotenv").config()
 
 module.exports = {
   siteMetadata: {
-    siteTitle: "gatsby-starter-shopify",
-    siteTitleDefault: "gatsby-starter-shopify by @GatsbyJS",
-    siteUrl: "https://shopify-demo.gatsbyjs.com",
+    siteTitle: "Sofybrands",
+    siteTitleDefault: "ONLINE OUTLET |  spare bis zu 70%  |",
+    siteUrl: "https://sofybrands.com/",
     hrefLang: "en",
     siteDescription:
-      "A Gatsby starter using the latest Shopify plugin showcasing a store with product overview, individual product pages, and a cart.",
+      "Sofybrands, Europas führendem Online Designer Outlet. Kaufen Sie die beste Mode,Schuhe,Sneakers und Accessoires für Damen und Herren .",
     siteImage: "/default-og-image.jpg",
-    twitter: "@gatsbyjs",
+    twitter: "@lucaildiko",
   },
   flags: {
     FAST_DEV: true,
